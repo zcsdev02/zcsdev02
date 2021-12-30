@@ -119,7 +119,7 @@ My Interests :heart_eyes:<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=zcsdev02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="left">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zcsdev02&theme=dark" alt="ShuvojitDas" /></p>
-  </div>
+</div>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zcsdev02&show_icons=true&theme=dark&locale=en&layout=compact" alt="ShuvojitDas" /></td>
 
 <div align="center">
